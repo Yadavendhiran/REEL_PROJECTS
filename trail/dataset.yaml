@@ -1,0 +1,8 @@
+path: /kaggle/input/cctv-knife-detection-dataset/Knife_Dataset
+train: /kaggle/input/cctv-knife-detection-dataset/Knife_Dataset/images
+val: /kaggle/input/cctv-knife-detection-dataset/Knife_Dataset/images
+
+names:
+  0: person
+  1: knife
+

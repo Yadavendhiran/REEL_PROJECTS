@@ -1,0 +1,7 @@
+path: D:\yt\trail
+train: D:\yt\trail\Knife_Dataset\images
+val: D:\yt\trail\Knife_Dataset\images
+
+names:
+  - 0: person
+  - 1: knife
